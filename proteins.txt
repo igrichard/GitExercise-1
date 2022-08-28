@@ -6,6 +6,12 @@ Hemoglobin-alpha Human HBA_HUMAN P69905
 Hemoglobin-alpha Human HBA_HUMAN P69905
 Hemoglobin-alpha Human HBA_HUMAN P69905
 Hemoglobin-alpha Human HBA_HUMAN P69905
+Hemoglobin-alpha Human HBA_HUMAN P69905
+Hemoglobin-alpha Human HBA_HUMAN P69905
+Hemoglobin-beta Human HBB_HUMAN P68871
+PFKM Human PFKAM_HUMAN P08237
+Hemoglobin-beta Human HBB_HUMAN P68871
+PFKM Human PFKAM_HUMAN P08237
 Hemoglobin-beta Human HBB_HUMAN P68871
 PFKM Human PFKAM_HUMAN P08237
 Hemoglobin-beta Human HBB_HUMAN P68871
